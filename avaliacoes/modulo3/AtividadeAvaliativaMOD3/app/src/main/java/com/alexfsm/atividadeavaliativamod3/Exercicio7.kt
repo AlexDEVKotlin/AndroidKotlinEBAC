@@ -13,7 +13,7 @@ fun main(){
 
     var soma = 0
     var i = 0
-    while(i <= (lista.size)){
+    while(i <= lista.size){
         soma = soma + i
         i++
     }
