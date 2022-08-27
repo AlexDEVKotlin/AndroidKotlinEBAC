@@ -18,7 +18,7 @@ fun main() {
     println(result)
 
     println("")
-    
+
     val number3: Double = 7.0
     number3.operations(4.5)
 }
